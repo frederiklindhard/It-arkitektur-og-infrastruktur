@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7clb44ujoMeBtxIgz0PjN4GE3rZwOwQEdL4J52uhk7ZgYO//Yx8/76k0p1BybG4Pp8PohURYgQeVyQQVZKmjMA==",
+  "dgSpecHash": "v+3ZVWocQZpCOV0AfyTZhlfD/TP3PHRPTr8LVEG6aimCQ2M1WghWTS/VlhZHplF421r1mCJvF5h5rOPqVoOv5Q==",
   "success": true,
   "projectFilePath": "/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/opgM01.03.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/frederiklindhard/.nuget/packages/system.diagnostics.diagnosticsource/7.0.0/system.diagnostics.diagnosticsource.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

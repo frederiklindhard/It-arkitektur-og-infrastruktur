@@ -1,0 +1,15 @@
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/bin/Debug/net7.0/opgM01.03
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/bin/Debug/net7.0/opgM01.03.deps.json
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/bin/Debug/net7.0/opgM01.03.runtimeconfig.json
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/bin/Debug/net7.0/opgM01.03.dll
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/bin/Debug/net7.0/opgM01.03.pdb
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/obj/Debug/net7.0/opgM01.03.csproj.AssemblyReference.cache
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/obj/Debug/net7.0/opgM01.03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/obj/Debug/net7.0/opgM01.03.AssemblyInfoInputs.cache
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/obj/Debug/net7.0/opgM01.03.AssemblyInfo.cs
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/obj/Debug/net7.0/opgM01.03.csproj.CoreCompileInputs.cache
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/obj/Debug/net7.0/opgM01.03.dll
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/obj/Debug/net7.0/refint/opgM01.03.dll
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/obj/Debug/net7.0/opgM01.03.pdb
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/obj/Debug/net7.0/opgM01.03.genruntimeconfig.cache
+/Users/frederiklindhard/It-arkitektur-og-infrastruktur/M1Availability_Performance/opgM01.03/obj/Debug/net7.0/ref/opgM01.03.dll
